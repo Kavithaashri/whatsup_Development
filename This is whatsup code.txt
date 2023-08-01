@@ -3,7 +3,7 @@ auhtor:Kavithaashri
 1.Profile page code
 2.chat screen code
 3.Last seen code
-4.Attachments(Image,Audio,Video) code
+4.Attachments(Image,Audio,Video,Document) code
 5.Hiding the Last seen
 6.video code has added
 7.Audio code added
